@@ -1,0 +1,6 @@
+número_da_sala,tipo,capacidade,estado
+1,Individual,1,Livre
+7,Grupo,5,Ocupada
+4,Individual,1,Ocupada
+3,Grupo,3,Livre
+6,Grupo,8,Livre

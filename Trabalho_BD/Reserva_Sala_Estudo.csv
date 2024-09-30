@@ -1,0 +1,6 @@
+tipo,dia,hora_de_entrada,hora_de_saída,Leitor_id,Funcionário_id,Sala_de_Estudo_número_da_sala
+Individual,2020-05-10,10:05,12:05,1,2,4
+Grupo,2022-05-10,10:10,12:10,2,3,3
+Individual,2021-04-05,13:35,15:35,4,5,1
+Grupo,2022-03-02,10:05,12:25,3,1,6
+Grupo,2023-01-02,12:05,14:45,5,3,7
